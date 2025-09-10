@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ethan\\source\\repos\\Restaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6BEB43-BBA0-4331-A444-9CECD9A10313}|Restaurant\\Restaurant.csproj|c:\\users\\ethan\\source\\repos\\restaurant\\restaurant\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6BEB43-BBA0-4331-A444-9CECD9A10313}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6BEB43-BBA0-4331-A444-9CECD9A10313}|Restaurant\\Restaurant.csproj|c:\\users\\ethan\\source\\repos\\restaurant\\restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6BEB43-BBA0-4331-A444-9CECD9A10313}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6BEB43-BBA0-4331-A444-9CECD9A10313}|Restaurant\\Restaurant.csproj|c:\\users\\ethan\\source\\repos\\restaurant\\restaurant\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6BEB43-BBA0-4331-A444-9CECD9A10313}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6BEB43-BBA0-4331-A444-9CECD9A10313}|Restaurant\\Restaurant.csproj|c:\\users\\ethan\\source\\repos\\restaurant\\restaurant\\restaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6BEB43-BBA0-4331-A444-9CECD9A10313}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\restaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6BEB43-BBA0-4331-A444-9CECD9A10313}|Restaurant\\Restaurant.csproj|c:\\users\\ethan\\source\\repos\\restaurant\\restaurant\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6BEB43-BBA0-4331-A444-9CECD9A10313}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6BEB43-BBA0-4331-A444-9CECD9A10313}|Restaurant\\Restaurant.csproj|c:\\users\\ethan\\source\\repos\\restaurant\\restaurant\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6BEB43-BBA0-4331-A444-9CECD9A10313}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6BEB43-BBA0-4331-A444-9CECD9A10313}|Restaurant\\Restaurant.csproj|c:\\users\\ethan\\source\\repos\\restaurant\\restaurant\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6BEB43-BBA0-4331-A444-9CECD9A10313}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Restaurant\\Restaurant\\Program.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Program.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\Restaurant\\Restaurant\\Program.cs",
+              "RelativeToolTip": "Restaurant\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAMwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T08:04:24.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestaurantContext.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Restaurant\\Restaurant\\RestaurantContext.cs",
+              "RelativeDocumentMoniker": "Restaurant\\RestaurantContext.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\Restaurant\\Restaurant\\RestaurantContext.cs",
+              "RelativeToolTip": "Restaurant\\RestaurantContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T09:20:47.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Restaurant\\Restaurant\\Menu.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Menu.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\Restaurant\\Restaurant\\Menu.cs",
+              "RelativeToolTip": "Restaurant\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T08:16:32.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Restaurant\\Restaurant\\Table.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Table.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\Restaurant\\Restaurant\\Table.cs",
+              "RelativeToolTip": "Restaurant\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T08:13:52.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Commande.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Restaurant\\Restaurant\\Commande.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Commande.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\Restaurant\\Restaurant\\Commande.cs",
+              "RelativeToolTip": "Restaurant\\Commande.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T08:11:22.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Restaurant\\Restaurant\\Article.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Article.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\Restaurant\\Restaurant\\Article.cs",
+              "RelativeToolTip": "Restaurant\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T08:09:01.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Restaurant\\Restaurant\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\Restaurant\\Restaurant\\Utilisateur.cs",
+              "RelativeToolTip": "Restaurant\\Utilisateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:43:48.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
